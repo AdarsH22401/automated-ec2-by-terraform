@@ -1,0 +1,6 @@
+.terraform/providers/registry.terraform.io
+.terraform.lock.hcl
+terra-ec2-key
+terra-ec2-key.pub
+terraform.tfstate
+terraform.tfstate.backup
